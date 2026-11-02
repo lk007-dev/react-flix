@@ -1,6 +1,6 @@
-import React from 'react'
+import type { FC } from "react"
 
-const Search = () => {
+const Search:FC = () => {
   return (
     <div>Search</div>
   )

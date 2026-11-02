@@ -1,6 +1,6 @@
-import React from 'react'
+import type { FC } from "react"
 
-const Watch = () => {
+const Watch:FC = () => {
   return (
     <div>Watch</div>
   )
